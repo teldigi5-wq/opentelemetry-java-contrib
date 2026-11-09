@@ -26,3 +26,9 @@ Prioritize security, source provenance, permission boundaries, evidence integrit
 ## Source boundaries
 - Primary account: https://github.com/teldigi5-wq
 - Education account: https://github.com/IT26101524
+
+## Companion roadmap and milestones
+- [Continuation roadmap](AI_ROADMAP_2026-11-09.md)
+- [Evidence and milestone ledger](AI_MILESTONES_2026-11-09.md)
+
+These docs are only proposed in PR #1, without modifying historical branches or protected main.
