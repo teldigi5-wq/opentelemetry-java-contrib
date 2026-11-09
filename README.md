@@ -86,3 +86,14 @@ For more information about the emeritus role, see the [community repository](htt
 ### Thanks to all of our contributors
 
 [![Repo contributors](https://contrib.rocks/image?repo=open-telemetry/opentelemetry-java-contrib)](https://github.com/open-telemetry/opentelemetry-java-contrib/graphs/contributors)
+
+## AI/developer continuation — 9 November 2026
+
+See the [verified-status handoff and next milestones](docs/AI_CONTINUATION_2026-11-09.md). Re-check current PR heads, tests, security gates and deployment truth before resuming. This documentation-only review does not imply a merge, certification or release.
+
+## AI continuation documents — 9 November 2026
+- [Current public recovery handoff](docs/AI_CONTINUATION_2026-11-09.md)
+- [Roadmap and next milestones](docs/AI_ROADMAP_2026-11-09.md)
+- [Evidence checklist and milestone tracker](docs/AI_MILESTONES_2026-11-09.md)
+
+Review-only [PR #1](https://github.com/teldigi5-wq/opentelemetry-java-contrib/pull/1); existing source and feature/upstream branches unchanged.
